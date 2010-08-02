@@ -1,0 +1,8 @@
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\obj\Debug\ResolveAssemblyReference.cache
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\obj\Debug\IPTrack.Properties.Resources.resources
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\obj\Debug\IPTrack.csproj.GenerateResource.Cache
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\bin\Debug\IPTrack.exe
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\bin\Debug\IPTrack.pdb
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\obj\Debug\IPTrack.exe
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\obj\Debug\IPTrack.pdb
+I:\Users\mjp\Documents\Visual Studio 2008\Projects\IPTrack\IPTrack\obj\Debug\IPTrack.frmMain.resources
